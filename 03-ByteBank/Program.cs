@@ -11,6 +11,18 @@ namespace _03_ByteBank
         static void Main(string[] args)
         {
 
+            ContaCorrente contaDaGabriela = new ContaCorrente();
+
+            contaDaGabriela.titular = "Gabriela";
+            contaDaGabriela.numero = 863453;
+
+
+            ContaCorrente contaDaGabrielCosta = new ContaCorrente();
+
+            contaDaGabriela.titular = "Gabriela";
+            contaDaGabriela.numero = 863453;
+
+
 
 
         }
