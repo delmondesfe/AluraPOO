@@ -23,8 +23,6 @@ namespace _03_ByteBank
             contaDaGabriela.numero = 863453;
 
 
-
-
         }
     }
 }
