@@ -10,6 +10,20 @@ namespace _05_ByteBank
     {
         static void Main(string[] args)
         {
+
+            Cliente felipe = new Cliente();
+
+            felipe.nome = "Luis Felipe";
+            felipe.cpf = "45401384807";
+            felipe.profissao = "An Sistemas";
+
+
+            ContaCorrente contaFelipe = new ContaCorrente();
+
+            contaFelipe.titular.nome = "Felipe";
+
+          
+
         }
     }
 }

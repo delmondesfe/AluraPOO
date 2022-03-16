@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB03AB15-8C01-45CA-B537-3947E02D7571}</ProjectGuid>
+    <ProjectGuid>{18A94E62-9B26-4695-B8C3-004F10E9F9F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_05_ByteBank</RootNamespace>
-    <AssemblyName>05-ByteBank</AssemblyName>
+    <RootNamespace>_06_ByteBank</RootNamespace>
+    <AssemblyName>06-ByteBank</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
